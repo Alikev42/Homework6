@@ -1,0 +1,110 @@
+A 191
+B 44
+C 51
+D 102
+E 262
+F 40
+G 51
+H 156
+I 126
+J 4
+K 26
+L 88
+M 59
+N 143
+O 157
+P 37
+Q 2
+R 124
+S 117
+T 188
+U 52
+V 11
+W 46
+X 4
+Y 37
+Z 4
+It has all letters.
+Total word count: 164
+Total char count: 719
+Average word length: 5.32
+Average sentence length (in words): 38.00
+Word distribution of words ending -ly:
+massively: 1
+Partly: 1
+redly: 1
+mind-boggingly: 1
+List of ten longest words:
+
+Total word count: 164
+Total char count: 719
+Average word length: 5.32
+Average sentence length (in words): 38.00
+Word distribution of words ending -ly:
+massively: 1
+Partly: 1
+redly: 1
+mind-boggingly: 1
+List of ten longest words:
+
+Total word count: 164
+Total char count: 719
+Average word length: 5.32
+Average sentence length (in words): 38.00
+Word distribution of words ending -ly:
+massively: 1
+Partly: 1
+redly: 1
+mind-boggingly: 1
+List of ten longest words:
+
+hand-to-hand-combat; : 20
+mind-boggingly : 14
+marble-sanded : 13
+Hitchhiker's : 12
+interstellar : 12
+Santraginus : 11
+emergencies : 11
+hitchhiker : 10
+Kakrafoon; : 10
+Bugblatter : 10
+Total word count: 164
+Total char count: 719
+Average word length: 5.32
+Average sentence length (in words): 38.00
+Word distribution of words ending -ly:
+massively: 1
+Partly: 1
+redly: 1
+mind-boggingly: 1
+List of ten longest words:
+
+hand-to-hand-combat; : 20
+mind-boggingly : 14
+marble-sanded : 13
+Hitchhiker's : 12
+interstellar : 12
+Santraginus : 11
+emergencies : 11
+hitchhiker : 10
+Kakrafoon; : 10
+Bugblatter : 10
+Total word count: 180
+Total char count: 831
+Average word length: 5.40
+Average sentence length (in words): 8.67
+Word distribution of words ending -ly:
+only: 1
+absolutely: 1
+List of ten longest words:
+
+administrations, : 16
+administration, : 15
+manufacturing : 13
+predictions : 11
+(Applause.) : 11
+politicians : 11
+nation’s : 10
+disastrous : 10
+President. : 10
+absolutely : 10
