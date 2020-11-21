@@ -71,7 +71,7 @@ all_text = ''
 
 # Read the file
 try: 
-    with open(INPUT_FILE,mode='r') as full_text:  # full_text is a record
+    with open(INPUT_FILE,mode='r',encoding='utf-8') as full_text:  # full_text is a record
         for line in full_text: 
             word = line.split()
             for element in word:        # Entering words into dictionary "speech"
